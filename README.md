@@ -1,3 +1,4 @@
 # margincalculator
 Publishermargincalculator
-Objective:
+Goal:
+To make business deal calculation automatically. 
